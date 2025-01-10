@@ -15,4 +15,4 @@ This repository contains a variety of PHP scripts focused on fundamental program
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/VarunSharma189/Basic-PHP-Programmes.git
+   https://github.com/VarunSharma189/Basic-PHP-Programmes.git
