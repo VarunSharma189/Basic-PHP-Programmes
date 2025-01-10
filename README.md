@@ -16,13 +16,3 @@ This repository contains a variety of PHP scripts focused on fundamental program
 1. Clone the repository:  
    ```bash
    https://github.com/VarunSharma189/Basic-PHP-Programmes.git
-
-##Contributions Welcome! 🤝
-If you have any suggestions, improvements, or new ideas, feel free to fork this repository and submit a pull request. Let's learn and grow together!
-
-##Stay Connected 🌐
-GitHub: VarunSharma189
-LinkedIn: Varun Sharma
-Email: sharmav1890@gmail.com
-
-Happy Coding! 💻✨
